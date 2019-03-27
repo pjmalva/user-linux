@@ -1,0 +1,14 @@
+D:\projetos\user-linux-ssh\user-linux-ssh\bin\Debug\user-linux-ssh.exe.config
+D:\projetos\user-linux-ssh\user-linux-ssh\bin\Debug\user-linux-ssh.exe
+D:\projetos\user-linux-ssh\user-linux-ssh\bin\Debug\user-linux-ssh.pdb
+D:\projetos\user-linux-ssh\user-linux-ssh\bin\Debug\Renci.SshNet.dll
+D:\projetos\user-linux-ssh\user-linux-ssh\bin\Debug\Renci.SshNet.xml
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user-linux-ssh.csprojAssemblyReference.cache
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user_linux_ssh.frmMain.resources
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user_linux_ssh.Properties.Resources.resources
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user-linux-ssh.csproj.GenerateResource.cache
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user-linux-ssh.csproj.CoreCompileInputs.cache
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user-linux-ssh.csproj.CopyComplete
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user-linux-ssh.exe
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user-linux-ssh.pdb
+D:\projetos\user-linux-ssh\user-linux-ssh\obj\Debug\user_linux_ssh.frmChangePasswd.resources
